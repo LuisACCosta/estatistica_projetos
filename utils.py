@@ -22,7 +22,7 @@ def preparar_dados(caminho_arquivo):
         'Em uma escala de 1 a 5, onde 1 é " Nenhum sucesso / Não consigo controlar" e 5 é "Total sucesso / Controlo perfeitamente "qual o seu nível de sucesso ao tentar controlar esse conteúdo?  ': 'sucesso_controle',
         'Qual é a sua experiência atual com aplicativos ou ferramentas de controle parental (ex: Family Link, Qustodio, etc.)?  ': 'experiencia_controle',
         'Você estaria disposto(a) a pagar por uma solução que filtre de forma eficiente conteúdos que possam ser uma má influência para o seu filho?  ': 'pagar',
-        'Qual valor mensal você considera o ideal para assinar essa solução de segurança digital? ': 'valor'
+        'Qual valor mensal você considera o ideal para assinar essa solução de segurança digital?  ': 'valor'
     })
 
 
